@@ -1,4 +1,7 @@
 # Portfolio-Repo
-This repository contains brief descriptions and links to a handful of my (cleaner appearing) projects. 
-As such, this is also a perpetual work in progress. 
+This repository contains significant snippets of my noteable projects, or links to the whole project.  
+
+As such, this is also a perpetual work in progress.
+
+Marat Barnett
 ---
