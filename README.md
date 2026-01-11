@@ -9,4 +9,4 @@ Marat Barnett
 
 ### UnityScripts
 Scripts written for Unity 6
-- [https://github.com/Marat-Barnett/Portfolio-Repo/blob/ea5e666cd9a1db14a6ec8f6d39a9cf962594d159/UnityScripts/BasicMovementScript.cs](Basic Movement Script)
+- [Basic Movement Script](https://github.com/Marat-Barnett/Portfolio-Repo/blob/ea5e666cd9a1db14a6ec8f6d39a9cf962594d159/UnityScripts/BasicMovementScript.cs)
